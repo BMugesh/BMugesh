@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hello Universe! I'm BMugesh 
+    Hello Universe! I'm Bala Mugesh 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
   
