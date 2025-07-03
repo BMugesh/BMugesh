@@ -1,27 +1,75 @@
-# <div align="center">Hello Universe! I'm BMugesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></div>
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20Universe!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20BalaMugesh%20%F0%9F%91%8B&descAlignY=60&descSize=25" />
+</div>
 
 <div align="center">
-  <p><em>🚀 Founder. Futurist. Full-stack warlock. I don't just code websites—I build realms ✨</em></p>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=700&lines=Student+%7C+Tech+Entrepreneur;AI+%26+Web+Innovator;Building+the+Future%2C+One+Realm+at+a+Time;Theoretical+Physics+Explorer;Full-Stack+Developer" alt="Typing SVG" />
-  </p>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+Digital+Realm+%F0%9F%8C%8C;BalaMugesh+%7C+Realm+Architect+%E2%9A%A1;Full-Stack+Warlock+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Building+Tomorrow's+Tech+Today" alt="Typing SVG" />
+  </h1>
+</div>
 
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/bala-mugesh-m-k/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://leetcode.com/u/mkbm1307/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-    </a>
-    <a href="https://github.com/BMugesh" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FF6B6B&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%9A%80+Founder+%E2%80%A2+Futurist+%E2%80%A2+Tech+Visionary+%E2%9C%A8;%F0%9F%A7%AC+Theoretical+Physics+Explorer+%E2%80%A2+AI+Innovator;%F0%9F%8C%9F+I+don't+just+code+websites%E2%80%94I+build+realms+%F0%9F%8F%B0;%F0%9F%94%AE+Merging+Science%2C+Technology+%26+Imagination" alt="Description Typing" />
   </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 Current Status
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯_Current_Focus-Script%26Style_Platform-ff6b6b?style=for-the-badge&labelColor=2d3748" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🧪_Exploring-Realm_Theory_Physics-4fd1c7?style=for-the-badge&labelColor=2d3748" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤖_Building-R.I.O_AI_Assistant-9f7aea?style=for-the-badge&labelColor=2d3748" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎓_Learning-Quantum_Computing-feca57?style=for-the-badge&labelColor=2d3748" />
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+
+  
+  ## 💫 Connect & Collaborate
+  
+  <a href="https://www.linkedin.com/in/bala-mugesh-m-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/mkbm1307/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/BMugesh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Journey-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+  </a>
+  <a href="mailto:mkbm1307@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=BMugesh&color=6E57F7&style=for-the-badge&label=Realm+Visitors" alt="Profile Views"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 ---
@@ -152,19 +200,6 @@ I'm a tech enthusiast weaving together **entrepreneurship**, **AI innovation**, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BMugesh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BMugesh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMugesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -247,7 +282,7 @@ I'm a tech enthusiast weaving together **entrepreneurship**, **AI innovation**, 
   <a href="https://leetcode.com/u/mkbm1307/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mkbm1307@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
